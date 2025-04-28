@@ -68,7 +68,7 @@
   <p><strong>Valor:</strong> R$ 9,90</p>
   <p>Copie a chave abaixo ou escaneie o QR Code para fazer o pagamento:</p>
   <div class="pix-key">meirajonatas19@gmail.com</div>
-  <img src="https://storage.googleapis.com/assistant-uploads/pix_qr_code.png" alt="QR Code PIX" class="qr-code">
+  <img src="/mnt/data/2c033e35-7e8a-4755-b6d7-99bc69b6ea5b.png" alt="QR Code PIX" class="qr-code">
   <p style="margin-top:20px;">Após o pagamento, envie o comprovante para nosso WhatsApp e receba seu e-book!</p>
 </section>
 
@@ -78,4 +78,5 @@
 
 </body>
 </html>
+
 
