@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
@@ -68,7 +68,7 @@
   <p><strong>Valor:</strong> R$ 9,90</p>
   <p>Copie a chave abaixo ou escaneie o QR Code para fazer o pagamento:</p>
   <div class="pix-key">meirajonatas19@gmail.com</div>
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=00020126460014BR.GOV.BCB.PIX0124meirajonatas19@gmail.com5204000053039865802BR5920JONATAS%20VIEIRA%20MEIRA6006Sumare61081317321462070503***63048D0F" alt="QR Code PIX" class="qr-code">
+  <img src="https://storage.googleapis.com/assistant-uploads/pix_qr_code.png" alt="QR Code PIX" class="qr-code">
   <p style="margin-top:20px;">Após o pagamento, envie o comprovante para nosso WhatsApp e receba seu e-book!</p>
 </section>
 
@@ -78,3 +78,4 @@
 
 </body>
 </html>
+
